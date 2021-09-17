@@ -13,4 +13,4 @@ negCtrls.fa.gz | Medaka-generated consensus genomes for negative controls (large
 pangolin.tgz.gz | Pangolineages for the above-mentioned fastas
 phate_processed.tar | One-hot encoded clinical and variants data used to compute PHATE embeddings
 verdun_genomes.tsv | Metadata used to add to auspice webviewer to highlight verdun genomes
-verdun+globaldata.json.gz | nextstrain phylogentic data comparing verdun genomes to a global of GISAID data (generates tree in auspice.us)
+verdun+globaldata.json.gz | Nextstrain phylogentic data comparing verdun genomes to a global of GISAID data (generates tree in auspice.us)
