@@ -8,6 +8,7 @@ hcov_global.fasta.gz | GISAID global data (downloaded 2021/09/16)
 hcov_global.tsv | GISAID global metadata (downloaded 2021/09/16)
 medaka.fa.gz | Medaka-generated consensus genomes (c.f. ARTIC bioinformatics pipeline)
 medaka_fixed.fa.gz | Medaka-generated and corrected with less abundant variant frequencies (see ../scripts/fix_medaka_fastas.sh) 
+medaka_fixed_gt80pc.fa.gz | Medaka subset used for phylogenetic inference and lineage assignment
 nanopolish.fa.gz | Nanopore-generated consensus genomes (c.f. ARTIC bioinformatics pipeline)
 negCtrls.fa.gz | Medaka-generated consensus genomes for negative controls (largely NNNNs)
 pangolin.tgz.gz | Pangolineages for the above-mentioned fastas
