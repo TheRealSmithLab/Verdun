@@ -13,5 +13,5 @@ nanopolish.fa.gz | Nanopore-generated consensus genomes (c.f. ARTIC bioinformati
 negCtrls.fa.gz | Medaka-generated consensus genomes for negative controls (largely NNNNs)
 pangolin.tgz.gz | Pangolineages for the above-mentioned fastas
 phate_processed.tar | One-hot encoded clinical and variants data used to compute PHATE embeddings
-verdun_genomes.tsv | Metadata used to add to auspice webviewer to highlight verdun genomes
-verdun+globaldata.json.gz | Nextstrain phylogentic data comparing verdun genomes to a global of GISAID data (generates tree in auspice.us)
+verdun_auspice-metadata.tsv | Metadata used to add to auspice webviewer to highlight verdun genomes
+verdun_globalcontext.json.gz | Nextstrain phylogentic data comparing verdun genomes to a global of GISAID data (generates tree in auspice.us)
